@@ -1,8 +1,8 @@
 
 
 function productOfAllIntegersExceptIndex(array) {
-  var productsAfterIndex = [];
-  var productSoFar = 1;
+  let productsAfterIndex = [];
+  let productSoFar = 1;
   let result = [];
   if(array.length < 2) return [];
 

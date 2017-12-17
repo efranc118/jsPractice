@@ -8,12 +8,6 @@ function getMaxProfit(stockPrices) {
   let maxProfit = stockPrices[1] - stockPrices[0];
 
   for(i = 1; i < stockPrices.length; i++) {
-    // if(maxProfit < stockPrices[i] - minPrice) {
-    //   maxProfit = stockPrices[i] - minPrice;
-    // }
-    // if(stockPrices[i] < minPrice) {
-    //   minPrice = stockPrices[i];
-    // }
     let currentPrice = stockPrices[i];
     let currentProfit = currentPrice - minPrice;
 
