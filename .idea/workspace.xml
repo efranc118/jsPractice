@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4424566-9b4f-4267-a261-3c3850f91d31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/HighestProductThreeIntegers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/MergeRanges.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/TargetSum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/CoinChange.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms/coin-change.js" afterPath="$PROJECT_DIR$/Algorithms/coin-change.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,56 +16,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="coin-change.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/coin-change.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoinChange.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/CoinChange.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="binarySearch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/binarySearch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="51" column="3" lean-forward="false" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
-              <folding>
-                <marker date="1509331832000" expanded="true" signature="19:474" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="23:225" ph="//..." />
-                <marker date="1509331832000" expanded="true" signature="350:404" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="511:564" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="588:672" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="707:1235" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="751:1232" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="784:1228" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="930:1222" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="988:1094" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="1108:1214" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="1293:1958" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="1392:1943" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="1537:1797" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="1581:1742" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="1754:1791" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="1841:1885" ph="{...}" />
-                <marker date="1509331832000" expanded="true" signature="1895:1939" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="subsets.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/subsets.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-              <folding>
-                <marker date="1513102386000" expanded="true" signature="38:331" ph="{...}" />
-                <marker date="1513102386000" expanded="true" signature="126:225" ph="{...}" />
-                <marker date="1513102386000" expanded="true" signature="177:220" ph="{...}" />
-                <marker date="1513102386000" expanded="true" signature="361:402" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -101,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeRanges.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeRanges.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/MergeRanges.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="61" column="71" lean-forward="false" selection-start-line="61" selection-start-column="71" selection-end-line="61" selection-end-column="71" />
+            <state relative-caret-position="183">
+              <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -204,6 +179,8 @@
         <option value="$PROJECT_DIR$/Algorithms/TargetSum.js" />
         <option value="$PROJECT_DIR$/Algorithms/HighestProductThreeIntegers.js" />
         <option value="$PROJECT_DIR$/Algorithms/MergeRanges.js" />
+        <option value="$PROJECT_DIR$/Algorithms/coin-change.js" />
+        <option value="$PROJECT_DIR$/Algorithms/CoinChange.js" />
       </list>
     </option>
   </component>
@@ -227,11 +204,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1440" />
-    <option name="y" value="203" />
-    <option name="width" value="1440" />
-    <option name="height" value="833" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -303,11 +280,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.MergeRanges.js">
+  <component name="RunManager" selected="Node.js.CoinChange.js">
+    <configuration name="CoinChange.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CoinChange.js" working-dir="$PROJECT_DIR$/Algorithms" />
     <configuration name="HighestProductThreeIntegers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="HighestProductThreeIntegers.js" working-dir="$PROJECT_DIR$/Algorithms" />
     <configuration name="MergeRanges.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="MergeRanges.js" working-dir="$PROJECT_DIR$/Algorithms" />
     <configuration name="MultipleStairs.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Algorithms/MultipleStairs.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="ProductExceptIndex.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Algorithms/ProductExceptIndex.js" working-dir="$PROJECT_DIR$" />
     <configuration name="TargetSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="TargetSum.js" working-dir="$PROJECT_DIR$/Algorithms" />
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
@@ -392,19 +369,19 @@
     <configuration name="coin" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Algorithms/coin-change.js" working-dir="$PROJECT_DIR$" />
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.coin" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.ProductExceptIndex.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.MultipleStairs.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.TargetSum.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.HighestProductThreeIntegers.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.MergeRanges.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.MultipleStairs.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.TargetSum.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.HighestProductThreeIntegers.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.MergeRanges.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.CoinChange.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.MergeRanges.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.HighestProductThreeIntegers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.TargetSum.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.MultipleStairs.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.ProductExceptIndex.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.CoinChange.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.MergeRanges.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.HighestProductThreeIntegers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.TargetSum.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.MultipleStairs.js" />
       </list>
     </recent_temporary>
   </component>
@@ -426,15 +403,15 @@
       <workItem from="1507521211494" duration="8498000" />
       <workItem from="1507651022070" duration="22000" />
       <workItem from="1509143209671" duration="8730000" />
-      <workItem from="1512752421855" duration="30125000" />
+      <workItem from="1512752421855" duration="33688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49275000" />
+    <option name="totallyTimeSpent" value="52838000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="203" width="1440" height="833" extended-state="0" />
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -448,14 +425,14 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752505" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19914803" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3635135" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27904564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -474,7 +451,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="150" />
+      <option name="time" value="155" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -483,21 +460,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="60" column="3" lean-forward="false" selection-start-line="51" selection-start-column="2" selection-end-line="60" selection-end-column="3" />
-          <folding>
-            <marker date="1507612942000" expanded="true" signature="180:209" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="249:315" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="339:393" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="480:781" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="486:668" ph="//..." />
-            <marker date="1507612942000" expanded="true" signature="825:1569" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="922:978" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1044:1081" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1123:1160" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1204:1477" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1243:1473" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1273:1385" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1397:1467" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -553,43 +516,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507612942000" expanded="true" signature="180:209" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="249:315" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="339:393" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="480:781" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="486:668" ph="//..." />
-            <marker date="1507612942000" expanded="true" signature="825:1569" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="922:978" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1044:1081" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1123:1160" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1204:1477" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1243:1473" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1273:1385" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1397:1467" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/coin-change.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="3" lean-forward="false" selection-start-line="51" selection-start-column="2" selection-end-line="60" selection-end-column="3" />
-          <folding>
-            <marker date="1507612942000" expanded="true" signature="180:209" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="249:315" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="339:393" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="480:781" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="486:668" ph="//..." />
-            <marker date="1507612942000" expanded="true" signature="825:1569" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="922:978" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1044:1081" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1123:1160" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1204:1477" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1243:1473" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1273:1385" ph="{...}" />
-            <marker date="1507612942000" expanded="true" signature="1397:1467" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -719,11 +646,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/MergeRanges.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="61" column="71" lean-forward="false" selection-start-line="61" selection-start-column="71" selection-end-line="61" selection-end-column="71" />
+        <state relative-caret-position="183">
+          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/coin-change.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/CoinChange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>

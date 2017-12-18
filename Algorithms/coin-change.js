@@ -22,14 +22,9 @@ function readLine() {
 main();
 
 function main() {
-    // var n_temp = readLine().split(' ');
-    // var n = parseInt(n_temp[0]);
-    // var m = parseInt(n_temp[1]);
-    // coins = readLine().split(' ');
-    // coins = coins.map(Number);
 
-    var n = 10;
-    var coins = [1,2,3];
+    let n = 10;
+    let coins = [1,2,3];
     let result = getCombinations(coins, n);
     console.log(result);
 }
