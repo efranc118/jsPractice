@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4424566-9b4f-4267-a261-3c3850f91d31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Arrays/RangeSums.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Graphs/GridUniquePaths.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Strings/LongestCommonSubString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Strings/StrStr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Trees/IsBST.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Trees/SecondLargestElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Trees/SuperBalancedTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemperatureControl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Arrays/LongestCommonPrefix.js" afterPath="$PROJECT_DIR$/Algorithms/Strings/LongestCommonPrefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/RotationPoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Trees/SuperBalanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/linkedList/Intersection.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,29 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GridUniquePaths.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/Graphs/GridUniquePaths.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StrStr.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/Strings/StrStr.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithms/Trees/SuperBalancedTree.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="810">
-              <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+              <caret line="54" column="3" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -89,11 +60,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecondLargestElement.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SecondLargestElement.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/Trees/SecondLargestElement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+            <state relative-caret-position="165">
+              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperBalanced.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Trees/SuperBalanced.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Intersection.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/linkedList/Intersection.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotationPoint.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/BinarySearch/RotationPoint.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -103,17 +104,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithms/Trees/IsBST.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultipleStairs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/DynamicProgramming/MultipleStairs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="45" />
+              <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -210,6 +201,9 @@
         <option value="$PROJECT_DIR$/Algorithms/Trees/SuperBalancedTree.js" />
         <option value="$PROJECT_DIR$/Algorithms/Arrays/RangeSums.js" />
         <option value="$PROJECT_DIR$/Algorithms/Trees/SecondLargestElement.js" />
+        <option value="$PROJECT_DIR$/Algorithms/Trees/SuperBalanced.js" />
+        <option value="$PROJECT_DIR$/Algorithms/linkedList/Intersection.js" />
+        <option value="$PROJECT_DIR$/Algorithms/BinarySearch/RotationPoint.js" />
       </list>
     </option>
   </component>
@@ -233,10 +227,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1603" />
+    <option name="y" value="453" />
     <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -254,8 +249,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,13 +268,12 @@
               <item name="jsPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsPractice" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,12 +307,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.SecondLargestElement.js">
-    <configuration name="IsBST.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="IsBST.js" working-dir="$PROJECT_DIR$/Algorithms/Trees" />
+  <component name="RunManager" selected="Node.js.RotationPoint.js">
+    <configuration name="Intersection.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Intersection.js" working-dir="$PROJECT_DIR$/Algorithms/linkedList" />
     <configuration name="RangeSums.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RangeSums.js" working-dir="$PROJECT_DIR$/Algorithms/Arrays" />
+    <configuration name="RotationPoint.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RotationPoint.js" working-dir="$PROJECT_DIR$/Algorithms/BinarySearch" />
     <configuration name="SecondLargestElement.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SecondLargestElement.js" working-dir="$PROJECT_DIR$/Algorithms/Trees" />
-    <configuration name="StrStr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="StrStr.js" working-dir="$PROJECT_DIR$/Algorithms/Strings" />
-    <configuration name="SuperBalancedTree.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SuperBalancedTree.js" working-dir="$PROJECT_DIR$/Algorithms/Trees" />
+    <configuration name="SuperBalanced.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SuperBalanced.js" working-dir="$PROJECT_DIR$/Algorithms/Trees" />
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -401,19 +396,19 @@
     <configuration name="coin" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Algorithms/DynamicProgramming/coin-change.js" working-dir="$PROJECT_DIR$" />
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.coin" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.StrStr.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.SuperBalancedTree.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.IsBST.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.RangeSums.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.SecondLargestElement.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.RangeSums.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.SecondLargestElement.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.SuperBalanced.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Intersection.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.RotationPoint.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.SecondLargestElement.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.RangeSums.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.SuperBalancedTree.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.IsBST.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.StrStr.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.RotationPoint.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Intersection.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.SuperBalanced.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.SecondLargestElement.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.RangeSums.js" />
       </list>
     </recent_temporary>
   </component>
@@ -438,16 +433,16 @@
       <workItem from="1512752421855" duration="33965000" />
       <workItem from="1513623829293" duration="28495000" />
       <workItem from="1514254026133" duration="14334000" />
-      <workItem from="1515380155581" duration="1723000" />
+      <workItem from="1515380155581" duration="4457000" />
+      <workItem from="1515560315699" duration="1350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97667000" />
+    <option name="totallyTimeSpent" value="101751000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="817" extended-state="6" />
-    <editor active="true" />
+    <frame x="1603" y="453" width="1440" height="828" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -461,14 +456,14 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34978542" sideWeight="0.4934334" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35336193" sideWeight="0.4934334" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3577348" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35238096" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27038628" sideWeight="0.5065666" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -509,39 +504,11 @@
           <option name="timeStamp" value="194" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="235" />
+      <option name="time" value="240" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="NodeJSConfigurationType">
-        <watch expression="currentSum" language="JavaScript" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/Trees/IsBST.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/DynamicProgramming/MultipleStairs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/RectangularIntersection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Arrays/RangeSums.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -641,6 +608,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
+          <folding>
+            <marker date="1509331832000" expanded="true" signature="19:474" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="23:225" ph="//..." />
+            <marker date="1509331832000" expanded="true" signature="350:404" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="511:564" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="588:672" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="707:1235" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="751:1232" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="784:1228" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="930:1222" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="988:1094" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1108:1214" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1293:1958" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1392:1943" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1537:1797" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1581:1742" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1754:1791" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1841:1885" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1895:1939" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -669,6 +656,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="51" column="3" lean-forward="false" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+          <folding>
+            <marker date="1509331832000" expanded="true" signature="19:474" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="23:225" ph="//..." />
+            <marker date="1509331832000" expanded="true" signature="350:404" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="511:564" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="588:672" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="707:1235" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="751:1232" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="784:1228" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="930:1222" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="988:1094" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1108:1214" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1293:1958" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1392:1943" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1537:1797" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1581:1742" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1754:1791" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1841:1885" ph="{...}" />
+            <marker date="1509331832000" expanded="true" signature="1895:1939" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -863,15 +870,7 @@
     <entry file="file://$PROJECT_DIR$/Algorithms/Trees/IsBST.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/Trees/SuperBalancedTree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -886,8 +885,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Trees/SecondLargestElement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Trees/SuperBalanced.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/linkedList/Intersection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Trees/SuperBalancedTree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="3" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/BinarySearch/RotationPoint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding />
         </state>
       </provider>
