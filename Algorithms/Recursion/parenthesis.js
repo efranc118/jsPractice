@@ -26,7 +26,9 @@ function generateParens(n, list) {
     return false;
   }
 
-};
+}
+
+process.exit();
 
 
 
