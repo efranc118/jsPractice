@@ -1,4 +1,4 @@
-package Queue;
+package main.queue;
 
 import java.util.ArrayList;
 import java.util.List;

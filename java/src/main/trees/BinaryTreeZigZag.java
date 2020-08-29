@@ -1,7 +1,6 @@
-package main;
+package main.trees;
 
 import java.util.*;
-import main.TreeNode;
 
 public class BinaryTreeZigZag {
 

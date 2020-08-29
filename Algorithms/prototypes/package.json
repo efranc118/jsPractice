@@ -1,0 +1,11 @@
+{
+  "name": "prototypes",
+  "version": "1.0.0",
+  "description": "Package used for testing",
+  "main": "httpRequest.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Evan Francis",
+  "license": "ISC"
+}

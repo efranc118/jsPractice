@@ -1,4 +1,4 @@
-import java.util.HashMap;
+package main;
 
 class RobotCircle {
     public boolean isRobotBounded(String instructions) {

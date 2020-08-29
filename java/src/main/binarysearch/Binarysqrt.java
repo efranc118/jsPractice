@@ -1,4 +1,4 @@
-package main;
+package main.binarysearch;
 
 public class Binarysqrt {
 

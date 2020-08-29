@@ -1,3 +1,5 @@
+package main;
+
 public class ProducerConsumer {
 
     private static final Object lock = new Object();

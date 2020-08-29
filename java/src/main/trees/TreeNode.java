@@ -1,4 +1,4 @@
-package main;
+package main.trees;
 
 public class TreeNode {
     int val;

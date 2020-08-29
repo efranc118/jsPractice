@@ -1,3 +1,5 @@
+package main;
+
 public class FindMinimumInRotation {
 
     public int findMin(int[] nums) {

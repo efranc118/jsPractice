@@ -1,3 +1,7 @@
+package main.divideconquer;
+
+import main.trees.TreeNode;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -15,7 +19,7 @@ public class GenerateAllBST {
 
 
     public ArrayList<TreeNode> generateCombinations(Integer min,
-                                         Integer max) {
+                                                    Integer max) {
         ArrayList<TreeNode> allCombinations = new ArrayList<>();
 
         if(min > max) {

@@ -1,5 +1,10 @@
+package main;
+
 import java.util.*;
-import java.util.stream.Collectors;
+
+/*
+Find the values where the count
+ */
 
 public class NobleInteger {
 

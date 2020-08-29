@@ -1,5 +1,10 @@
+package main;
+
 import java.util.Stack;
 
+
+
+//TODO: Haven't figured this one out yet
 public class CollectRainWater {
 
     class Wall {
